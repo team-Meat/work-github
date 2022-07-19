@@ -1,0 +1,54 @@
+* [33m41c2e22[m[33m ([m[1;31morigin/rino[m[33m)[m Add Devise
+* [33m20b460e[m Add Devise
+*   [33mf549e59[m Merge remote-tracking branch 'origin/develop' into rino
+[32m|[m[33m\[m  
+* [33m|[m [33m64ef8c3[m a
+* [33m|[m [33maf82ed6[m rino
+* [33m|[m [33m3d990f0[m first commit
+* [33m|[m [33m1ef50ea[m first commit
+* [33m|[m [33m62e994d[m first commit
+[33m|[m [33m|[m *   [33m6dff225[m[33m ([m[1;31morigin/tishima[m[33m)[m 7181
+[33m|[m [33m|[m [34m|[m[35m\[m  
+[33m|[m [33m|[m [34m|[m *   [33m62002f6[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m Merge pull request #7 from team-Meat/hiratsuka
+[33m|[m [33m|[m [34m|[m [36m|[m[1;31m\[m  
+[33m|[m [33m|[m [34m|[m [36m|[m * [33m5e9a64d[m[33m ([m[1;31morigin/hiratsuka[m[33m)[m Add7183 Commit
+[33m|[m [33m|[m [34m|[m * [1;31m|[m [33m6da414b[m Merge pull request #6 from team-Meat/hiratsuka
+[33m|[m [33m|[m [34m|[m[33m/[m[1;31m|[m [1;31m|[m 
+[33m|[m [33m|[m[33m/[m[34m|[m [1;31m|[m[1;31m/[m  
+[33m|[m [33m|[m * [1;31m|[m [33me0fac67[m 718
+[33m|[m [33m|[m * [1;31m|[m   [33ma97beb8[m first comment
+[33m|[m [33m|[m [1;34m|[m[33m\[m [1;31m\[m  
+[33m|[m [33m|[m [1;34m|[m[33m/[m [1;31m/[m  
+[33m|[m [33m|[m[33m/[m[1;34m|[m [1;31m|[m   
+[33m|[m [33m|[m * [1;31m|[m [33mbef6909[m first comment
+[33m|[m [33m|[m * [1;31m|[m [33m7f63b92[m second comment
+[33m|[m [33m|[m * [1;31m|[m [33mdba5bf4[m second comment
+[33m|[m [33m|[m[33m/[m [1;31m/[m  
+[33m|[m[33m/[m[33m|[m [1;31m|[m   
+[33m|[m [33m|[m [1;31m|[m * [33m02ff819[m[33m ([m[1;31morigin/revert-4-hiratsuka[m[33m)[m Revert "Hiratsuka"
+[33m|[m [33m|[m [1;31m|[m *   [33m41e0069[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #4 from team-Meat/hiratsuka
+[33m|[m [33m|[m [1;31m|[m [31m|[m[1;31m\[m  
+[33m|[m [33m|[m [1;31m|[m [31m|[m[1;31m/[m  
+[33m|[m [33m|[m [1;31m|[m[1;31m/[m[31m|[m   
+[33m|[m [33m|[m * [31m|[m [33m02549a3[m Add718 Commit
+[33m|[m [33m|[m * [31m|[m   [33m3cd08b2[m Merge remote-tracking branch 'origin/develop' into hiratsuka
+[33m|[m [33m|[m [33m|[m[33m\[m [31m\[m  
+[33m|[m [33m|[m [33m|[m[33m/[m [31m/[m  
+[33m|[m [33m|[m[33m/[m[33m|[m [31m|[m   
+[33m|[m [33m|[m * [31m|[m [33me39167d[m Add Devise
+[33m|[m [33m|[m[33m/[m [31m/[m  
+[33m|[m[33m/[m[33m|[m [31m|[m   
+[33m|[m [33m|[m [31m|[m * [33mb1dd140[m[33m ([m[1;36mHEAD -> [m[1;32mtanaka[m[33m, [m[1;31morigin/tanaka[m[33m)[m tanaka
+[33m|[m [33m|[m [31m|[m[33m/[m  
+[33m|[m [33m|[m[33m/[m[31m|[m   
+[33m|[m [33m|[m [31m|[m * [33ma63c88c[m[33m ([m[1;31morigin/revert-2-install-devise[m[33m)[m Revert "Add Devise"
+[33m|[m [33m|[m [31m|[m[33m/[m  
+[33m|[m [33m|[m[33m/[m[31m|[m   
+[33m|[m * [31m|[m [33m466cc34[m Merge pull request #2 from team-Meat/install-devise
+[33m|[m[33m/[m[1;32m|[m [31m|[m 
+[33m|[m * [31m|[m [33m1e4c7d2[m[33m ([m[1;31morigin/install-devise[m[33m)[m Add Devise
+[33m|[m[33m/[m [31m/[m  
+* [31m/[m [33m29c55ac[m first commit
+[31m|[m[31m/[m  
+* [33m2f28282[m[33m ([m[1;32mmain[m[33m)[m first commit
+* [33me4f839e[m first commit
