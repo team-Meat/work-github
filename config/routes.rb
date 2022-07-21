@@ -14,12 +14,11 @@ Rails.application.routes.draw do
 }
 
 
-  # get 'top' => 'public/homes#top'
-  # get 'public/customers/show'
-  # get 'public/customers/edit'
-  # get 'public/customers/update'
-  # get 'public/customers/confirm'
-  # get 'public/customers/withdraw'
-  # get 'public/homes/about'
-
+  get 'top' => 'public/homes#top'
+  get 'public/customers/show'
+  get 'public/customers/edit'
+  get 'public/customers/update'
+  get 'public/customers/confirm'
+  get 'public/customers/withdraw'
+  get 'public/homes/about'
 end
