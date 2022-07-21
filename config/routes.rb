@@ -8,4 +8,11 @@ Rails.application.routes.draw do
   sessions: "admin/sessions"
 }
 
+
+  scope module: :public do
+      root 'items#top'
+     resources :items, only: [:show, :index]
+     get 'about' => 'items#about'
+   end
+
 end

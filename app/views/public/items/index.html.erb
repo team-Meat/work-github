@@ -1,0 +1,19 @@
+<table class='table'>
+  <thead>
+    <tr>
+      <th><h1>商品一覧</h1></th>
+      <th><h2>全<%= @items.count %>件</h2></th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @items.each do |item| %>
+    <tr>
+      <td><% image_tag item.image %></td>
+      <td><% item.name %></td>
+      <td><% item.introduction %></td>
+      <td></td>
+    </tr>
+    <% end %>
+   </tbody>
+ </table>
